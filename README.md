@@ -1,5 +1,8 @@
 # Flags Project
 
+See the [Contributing guidelines](CONTRIBUTING.md) for details on how to 
+use git and Github to interact with this project.  
+
 1. Submit your name and a fact about you into the "biographies" folder.  
 The name of the file with your information should be formatted as: 
 `lastname_firstname.txt`.  
